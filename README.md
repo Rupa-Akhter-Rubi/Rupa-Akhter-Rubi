@@ -1,7 +1,7 @@
 <h1 align="center">As-salamu Alaikum.. I'm Rupa Akhter Rubi</h1>
 <h3 align="center">Fast learner</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Data Analysis**
 
 - 📫 How to reach me **rupaakhterrupu@gmail.com**
 
